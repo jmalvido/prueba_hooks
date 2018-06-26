@@ -4,6 +4,6 @@
     "color-no-invalid-hex": true,
     "declaration-colon-space-after": "always",
     "max-empty-lines": 2,
-    "unit-whitelist": ["em", "rem", "%", "vw", "vh"]
+    "unit-whitelist": ["em", "rem", "%", "vw", "vh", "px"]
   }
 }
